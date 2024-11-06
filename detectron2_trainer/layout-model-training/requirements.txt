@@ -1,0 +1,13 @@
+layoutparser
+funcy
+bs4
+scikit-learn
+imagesize
+tqdm
+pyyaml==6.0.1
+-i https://download.pytorch.org/whl/cu121
+torch==2.2.0+cu121
+-i https://download.pytorch.org/whl/cu121
+torchaudio==2.2.0+cu121
+-i https://download.pytorch.org/whl/cu121
+torchvision==0.17.0+cu121
