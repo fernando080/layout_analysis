@@ -1,0 +1,1 @@
+from examples.object_detection.ditod.table_evaluation.evaluate import calc_table_score

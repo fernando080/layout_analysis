@@ -1,0 +1,16 @@
+funcy
+bs4
+scikit-learn
+imagesize
+tqdm
+pyyaml==6.0.1
+layoutparser==0.3.4
+layoutparser[layoutmodels]
+pymupdf==1.24.1
+pdf2image
+Pillow==9.5.0 # Aboid this issue https://github.com/Layout-Parser/layout-parser/issues/194
+transformers==4.39.3
+sentencepiece==0.2.0
+sacremoses==0.1.1 # For translation using transormers, this library helps to tokenize the text
+
+git+https://github.com/facebookresearch/detectron2.git#egg=detectron2
